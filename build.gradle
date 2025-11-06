@@ -35,7 +35,8 @@ bootJar {
 
 // war deployment 
 bootWar {
-      archiveFileName = 'gym-k.war'
+      // archiveFileName = 'gym-k.war'
+	archiveFileName = 'ROOT.war'
 }
 // ------------------------------ [251104] war(gym-k)배포 추가 ------------------------------
 
